@@ -33,6 +33,8 @@ ollama run llama3:8b
 ```
 
 ---
+![image](https://github.com/user-attachments/assets/ce10aa25-51cc-423c-b0f1-24987c713ce8)
+
 
 #### 4. **Use Programmatically (Optional)**
 Install the Python package (if building an app):
@@ -137,7 +139,3 @@ response = ollama.chat(model='llama3', messages=[
 - Python 3.8+
 - Ollama
 ```
-
----
-
-Would you like me to generate the code (`app.py`, `README.md`, and `requirements.txt`) and help you push to GitHub right now?
